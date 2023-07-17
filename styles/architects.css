@@ -251,6 +251,16 @@ footer p{
     .facts-card-container {
         gap: 20px;
     }
+    footer{
+        padding: 40px 0;
+        margin: auto;
+        width: 90%;
+        
+    }
+    footer p{
+        align-items: center;
+        padding-left: 0;
+    }
 }
 
 /* Tablet or medium devices */
